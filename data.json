@@ -1,0 +1,51 @@
+{
+   
+        "projects": [
+            {
+                "id": 100,
+                "project_name": "A Random Quote Generator",
+                "description": "For this first project, you'll create an app that displays random famous quotes each time a button is clicked. You will select your own quotes from famous historical figures, artists, scientists, celebrities, etc.",
+                "technologies": ["Javascript","vanilla"],
+                "live_link":"",
+                "github-link":"https://github.com/felipemolano/unit1",
+                "image-urls":""
+            },
+            {
+                "id": 200,
+                "project_name": "List Pagination and Filtering",
+                "description": "Project contains only plain vanilla JavaScript and doesn't rely on jQuery, some other library, or any code snippets or plugins.",
+                "technologies": ["Javascript","vanilla"],
+                "live_link":"",
+                "github-link":"https://github.com/felipemolano/unit2",
+                "image-urls":""
+            },
+            {
+                "id": 300,
+                "project_name": "Interactive Form",
+                "description": "In this project, you'll use JavaScript to enhance an interactive registration form for a fictional conference called FullStack Conf.",
+                "technologies": ["jQuery","Javascript"],
+                "live_link":"",
+                "github-link":"https://github.com/felipemolano/unit3",
+                "image-urls":["./images/dinamic-form.jpg","./images/dinamic-form2.jpg"]
+            },
+            {
+                "id": 400,
+                "project_name": "OOP Game Show App",
+                "description": "In this project, you'll create a browser-based, word guessing game: Phrase Hunter. You’ll use JavaScript and OOP (Object-Oriented Programming) to select a random, hidden phrase, which a player tries to guess, by clicking letters on an onscreen keyboard.",
+                "technologies": ["OOP","Javascript"],
+                "live_link":"",
+                "github-link":"https://github.com/felipemolano/unit4",
+                "image-urls":["./images/phrase-hunter.jpg","./images/phrase-hunter2.jpg"]
+            },
+            {
+                "id": 500,
+                "project_name": "Public API Requests",
+                "description": "Communicating with APIs allows you to work with microservices and with vast databases to build useful tools and relevant information quickly and easily. You can build utilities, games, infographics, and more. You can also integrate, display, and analyze social media and large data sets without having to create and curate them yourself.",
+                "technologies": ["API","JSON","Javascript"],
+                "live_link":"",
+                "github-link":"https://github.com/felipemolano/unit5",
+                "image-urls":["./images/API-dinamic.jpg","./images/dinamic-API2.jpg"]
+            }
+        ]
+    
+}
