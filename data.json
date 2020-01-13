@@ -8,7 +8,7 @@
                 "technologies": ["Javascript","vanilla"],
                 "live_link":"https://felipemolano.github.io/unit1/",
                 "github-link":"https://github.com/felipemolano/unit1",
-                "image-urls":""
+                "image-urls":["./images/random-quote-1.jpg","./images/random-quote-2.jpg"]
             },
             {
                 "id": 200,
@@ -17,7 +17,7 @@
                 "technologies": ["Javascript","vanilla"],
                 "live_link":"https://felipemolano.github.io/unit2/",
                 "github-link":"https://github.com/felipemolano/unit2",
-                "image-urls":""
+                "image-urls":["./images/list-pagination-1.jpg","./images/list-pagination-2.jpg"]
             },
             {
                 "id": 300,
@@ -26,7 +26,7 @@
                 "technologies": ["jQuery","Javascript"],
                 "live_link":"https://felipemolano.github.io/unit3/",
                 "github-link":"https://github.com/felipemolano/unit3",
-                "image-urls":["./images/dinamic-form.jpg","./images/dinamic-form2.jpg"]
+                "image-urls":["./images/interactive-form-1.jpg","./images/interactive-form-2.jpg"]
             },
             {
                 "id": 400,
@@ -35,7 +35,7 @@
                 "technologies": ["OOP","Javascript"],
                 "live_link":"https://felipemolano.github.io/unit4/",
                 "github-link":"https://github.com/felipemolano/unit4",
-                "image-urls":["./images/phrase-hunter.jpg","./images/phrase-hunter2.jpg"]
+                "image-urls":["./images/phrase-hunter-1.jpg","./images/phrase-hunter-2.jpg"]
             },
             {
                 "id": 500,
@@ -44,7 +44,7 @@
                 "technologies": ["API","JSON","Javascript"],
                 "live_link":"https://felipemolano.github.io/unit5/",
                 "github-link":"https://github.com/felipemolano/unit5",
-                "image-urls":["./images/API-dinamic.jpg","./images/dinamic-API2.jpg"]
+                "image-urls":["./images/public-api-1.jpg","./images/public-api-2.jpg"]
             }
         ]
     
