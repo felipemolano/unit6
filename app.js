@@ -1,17 +1,17 @@
 const express = require("express");
-const data = require("./data.json");
+const { projects } = require("./data.json");
 const app = express();
 app.set("view engine","pug");
+app.use(express.static("public"));
 
 
 
 
 
 
+app.get("/",(req,res,next)=>{
 
-app.get("/",(req,res)=>{
-
-    res.send("hello, World!!!");
+    res.render("index",{ projects });
 });
 app.get("/about",(req,res)=>{
 
@@ -19,5 +19,5 @@ app.get("/about",(req,res)=>{
 });
 
 const server = app.listen(3000,()=>{
-    console.log("running ...and listening on port 3000...."+data.projects[1].project_name);
+    console.log("running ...and listening on port 3000....");
 });

@@ -7,8 +7,9 @@
                 "description": "For this first project, you'll create an app that displays random famous quotes each time a button is clicked. You will select your own quotes from famous historical figures, artists, scientists, celebrities, etc.",
                 "technologies": ["Javascript","vanilla"],
                 "live_link":"https://felipemolano.github.io/unit1/",
-                "github-link":"https://github.com/felipemolano/unit1",
-                "image-urls":["./images/random-quote-1.jpg","./images/random-quote-2.jpg"]
+                "github_link":"https://github.com/felipemolano/unit1",
+                "urls":["./images/random-quote-1.JPG","./images/random-quote-2.jpg"]
+                
             },
             {
                 "id": 200,
@@ -16,8 +17,8 @@
                 "description": "Project contains only plain vanilla JavaScript and doesn't rely on jQuery, some other library, or any code snippets or plugins.",
                 "technologies": ["Javascript","vanilla"],
                 "live_link":"https://felipemolano.github.io/unit2/",
-                "github-link":"https://github.com/felipemolano/unit2",
-                "image-urls":["./images/list-pagination-1.jpg","./images/list-pagination-2.jpg"]
+                "github_link":"https://github.com/felipemolano/unit2",
+                "urls":["images/list-pagination-1.JPG","./images/list-pagination-2.jpg"]
             },
             {
                 "id": 300,
@@ -25,8 +26,8 @@
                 "description": "In this project, you'll use JavaScript to enhance an interactive registration form for a fictional conference called FullStack Conf.",
                 "technologies": ["jQuery","Javascript"],
                 "live_link":"https://felipemolano.github.io/unit3/",
-                "github-link":"https://github.com/felipemolano/unit3",
-                "image-urls":["./images/interactive-form-1.jpg","./images/interactive-form-2.jpg"]
+                "github_link":"https://github.com/felipemolano/unit3",
+                "urls":["./images/interactive-form-1.jpg","./images/interactive-form-2.jpg"]
             },
             {
                 "id": 400,
@@ -34,8 +35,8 @@
                 "description": "In this project, you'll create a browser-based, word guessing game: Phrase Hunter. You’ll use JavaScript and OOP (Object-Oriented Programming) to select a random, hidden phrase, which a player tries to guess, by clicking letters on an onscreen keyboard.",
                 "technologies": ["OOP","Javascript"],
                 "live_link":"https://felipemolano.github.io/unit4/",
-                "github-link":"https://github.com/felipemolano/unit4",
-                "image-urls":["./images/phrase-hunter-1.jpg","./images/phrase-hunter-2.jpg"]
+                "github_link":"https://github.com/felipemolano/unit4",
+                "urls":["./images/phrase-hunter-1.jpg","./images/phrase-hunter-2.jpg"]
             },
             {
                 "id": 500,
@@ -43,8 +44,8 @@
                 "description": "Communicating with APIs allows you to work with microservices and with vast databases to build useful tools and relevant information quickly and easily. You can build utilities, games, infographics, and more. You can also integrate, display, and analyze social media and large data sets without having to create and curate them yourself.",
                 "technologies": ["API","JSON","Javascript"],
                 "live_link":"https://felipemolano.github.io/unit5/",
-                "github-link":"https://github.com/felipemolano/unit5",
-                "image-urls":["./images/public-api-1.jpg","./images/public-api-2.jpg"]
+                "github_link":"https://github.com/felipemolano/unit5",
+                "urls":["./images/public-api-1.jpg","./images/public-api-2.jpg"]
             }
         ]
     
