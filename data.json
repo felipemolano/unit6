@@ -8,7 +8,7 @@
                 "technologies": ["Javascript","vanilla"],
                 "live_link":"https://felipemolano.github.io/unit1/",
                 "github_link":"https://github.com/felipemolano/unit1",
-                "urls":["./images/random-quote-1.JPG","./images/random-quote-2.jpg"]
+                "urls":["/static/images/random-quote-1.JPG","/static/images/random-quote-2.jpg"]
                 
             },
             {
@@ -18,7 +18,7 @@
                 "technologies": ["Javascript","vanilla"],
                 "live_link":"https://felipemolano.github.io/unit2/",
                 "github_link":"https://github.com/felipemolano/unit2",
-                "urls":["images/list-pagination-1.JPG","./images/list-pagination-2.jpg"]
+                "urls":["/static/images/list-pagination-1.JPG","/static/images/list-pagination-2.jpg"]
             },
             {
                 "id": 300,
@@ -27,7 +27,7 @@
                 "technologies": ["jQuery","Javascript"],
                 "live_link":"https://felipemolano.github.io/unit3/",
                 "github_link":"https://github.com/felipemolano/unit3",
-                "urls":["./images/interactive-form-1.jpg","./images/interactive-form-2.jpg"]
+                "urls":["/static/images/interactive-form-1.jpg","/static/images/interactive-form-2.jpg"]
             },
             {
                 "id": 400,
@@ -36,7 +36,7 @@
                 "technologies": ["OOP","Javascript"],
                 "live_link":"https://felipemolano.github.io/unit4/",
                 "github_link":"https://github.com/felipemolano/unit4",
-                "urls":["./images/phrase-hunter-1.jpg","./images/phrase-hunter-2.jpg"]
+                "urls":["/static/images/phrase-hunter-1.jpg","/static/images/phrase-hunter-2.jpg"]
             },
             {
                 "id": 500,
@@ -45,7 +45,7 @@
                 "technologies": ["API","JSON","Javascript"],
                 "live_link":"https://felipemolano.github.io/unit5/",
                 "github_link":"https://github.com/felipemolano/unit5",
-                "urls":["./images/public-api-1.jpg","./images/public-api-2.jpg"]
+                "urls":["/static/images/public-api-1.jpg","/static/images/public-api-2.jpg"]
             }
         ]
     
